@@ -230,7 +230,7 @@ local Properties = {
 	},
 	CircleButton = {
 		BackgroundTransparency = 1,
-		AutoButtonColor = false,
+		AutoButtonColor = true,
 		Image = "http://www.roblox.com/asset/?id=5554831670"
 	},
 	Frame = {
