@@ -249,14 +249,14 @@ local Properties = {
 		BackgroundTransparency = 1,
 		Position = UDim2.fromOffset(10,0),
 		Size = UDim2.fromScale(1,1) - UDim2.fromOffset(5,0),
-		TextSize = 14,
+		TextSize = 1,
 		TextXAlignment = Enum.TextXAlignment.Left
 	},
 	Box = {
 		BackgroundTransparency = 1,
 		Position = UDim2.fromOffset(5,0),
 		Size = UDim2.fromScale(1,1) - UDim2.fromOffset(5,0),
-		TextSize = 14,
+		TextSize = 1,
 		TextXAlignment = Enum.TextXAlignment.Left
 	},
 	ScrollingFrame = {
@@ -277,7 +277,7 @@ local Properties = {
 		Name = "SheetToggle",
 		Image = "http://www.roblox.com/asset/?id=5576439039",
 		BackgroundTransparency = 1,
-		Size = UDim2.fromOffset(2,2),
+		Size = UDim2.fromOffset(20,20),
 		Position = UDim2.fromOffset(5,5),
 		AutoButtonColor = false
 	}
