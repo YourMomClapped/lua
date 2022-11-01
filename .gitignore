@@ -247,7 +247,7 @@ local Properties = {
 	},
 	Button = {
 		BackgroundTransparency = 1,
-		Position = UDim2.fromOffset(5,0),
+		Position = UDim2.fromOffset(10,0),
 		Size = UDim2.fromScale(1,1) - UDim2.fromOffset(5,0),
 		TextSize = 14,
 		TextXAlignment = Enum.TextXAlignment.Left
