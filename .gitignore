@@ -277,7 +277,7 @@ local Properties = {
 		Name = "SheetToggle",
 		Image = "http://www.roblox.com/asset/?id=5576439039",
 		BackgroundTransparency = 1,
-		Size = UDim2.fromOffset(20,20),
+		Size = UDim2.fromOffset(2,2),
 		Position = UDim2.fromOffset(5,5),
 		AutoButtonColor = false
 	}
