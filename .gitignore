@@ -221,7 +221,7 @@ local Properties = {
 		Image = "http://www.roblox.com/asset/?id=5554236805",
 		ScaleType = Enum.ScaleType.Slice,
 		SliceCenter = Rect.new(23,23,277,277),
-		Size = UDim2.fromScale(1,1) + UDim2.fromOffset(1,1),
+		Size = UDim2.fromScale(1,1) + UDim2.fromOffset(30,30),
 		Position = UDim2.fromOffset(-15,-15)
 	},
 	Circle = {
